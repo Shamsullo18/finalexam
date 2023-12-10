@@ -1,0 +1,131 @@
+.top i{
+    display: flex;
+    justify-content: center;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.left p{
+    color: grey;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.div1{
+    color: grey;
+    margin-left: 605px;
+}
+.div2{
+    color: grey;
+    margin-left: 710px;
+    margin-top: -72px;
+}
+.div3{
+    color: grey;
+    margin-left: 800px;
+    margin-top: -72px;
+}
+.tel{
+    
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.flex2{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+#o1{
+    background-color:rgb(255, 191, 72);
+    color : rgb(20, 20, 20);
+    border: none;
+    width: 120px;
+    border-radius: 10px;
+}
+#o1:hover{
+    background-color:grey;
+    color :rgb(20, 20, 20);
+    border: none;
+    width: 120px;
+    border-radius: 10px;
+}
+#o2{
+    background-color:rgb(20, 20, 20);
+    color : grey;
+    border: none;
+    width: 120px;
+    border-radius: 10px;
+}
+#o2:hover{
+    background-color:rgb(169, 169, 169);
+    color : rgb(43, 43, 43);
+    border: none;
+    width: 120px;
+    border-radius: 10px;
+}
+.flex4{
+    background-color: rgb(20, 20, 20);
+    color: grey;
+    width: 150px;
+    border-radius: 10px;
+    margin-left: 160px;
+    margin-top: 10px;
+}
+.flex4 fieldset{
+    border: none;
+    border-radius: 10px;
+}
+.flex5 fieldset{
+    border: none;
+    border-radius: 10px;
+}
+.flex5{
+    width: 150px;
+    color: gray;
+    background-color: rgb(20, 20, 20);
+    border-radius: 10px;
+    margin-top: -35px;
+}
+.photo1{
+    display: flex;
+    justify-content: center;
+}
+.photo2{
+    display: flex;
+    justify-content: center;
+}
+.photo3{
+    display: flex;
+    justify-content: center;
+}
+.photo1 img{
+    width: 250px;
+    padding: 10px;
+}
+.photo2 img{
+    width: 250px;
+    padding: 10px;
+}
+.photo3 img{
+    width: 250px;
+    padding: 10px;
+}
+.end{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: rgb(33, 33, 33);
+}
+.zac fieldset{
+width: 300px;
+border: none;
+border-radius: 10px;
+}
+.zac{
+    justify-content: center;
+    display: flex;
+    border: none;
+border-radius: 10px;
+}
